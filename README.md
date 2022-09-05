@@ -1,7 +1,6 @@
 ### 👋
 Thank you for visiting my profile. I am Tajul, a software developer currently pursuing my Master's degree in Web Engineering at Chemnitz University of Technology and also working as a software developer at be4energy GmbH. I love to keep myself updated with all available modern technologies in the field of software development. My goal is to sharpen my development skills to become an experienced professional software developer in this field.
 
-Translated with www.DeepL.com/Translator (free version)  
 <!--
 **tajul-tuc/tajul-tuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
