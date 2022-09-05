@@ -1,4 +1,5 @@
 ### 👋
+Thanks for visiting my profile. I am Tajul a Software Engineer currently doing my Master's in Web Engineering at Technische Universität Chemnitz. Right now I am looking for a full-time position where the dignity of work provides job satisfaction and the place of work provides potential avenues for learning, growing, and fulfilling my motto.
 
 <!--
 **tajul-tuc/tajul-tuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
