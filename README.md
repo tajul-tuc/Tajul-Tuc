@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![Github stats](https://github-readme-stats.vercel.app/api?username=tajul-tuc)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tajul-tuc&repo=JavaScript)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tajul-tuc&repo=Ckan-RDM)
+-->
+![Github stats](https://github-readme-stats.vercel.app/api?username=tajul-tuc)
+
 
