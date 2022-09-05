@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tajul-tuc)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tajul-tuc&repo=JavaScript)
-![counter](https://[en4gsl31xoay7cl].m.pipedream.net)
+![counter](https://[steps.trigger.event.url].m.pipedream.net)
 
