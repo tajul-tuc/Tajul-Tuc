@@ -16,7 +16,10 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   </div>
-### 👋
+<div id="badges" align="center">Hi there 👋</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 Thank you for visiting my profile. I am Tajul, a software developer currently pursuing my Master's degree in Web Engineering at Chemnitz University of Technology and also working as a software developer at be4energy GmbH. I love to keep myself updated with all available modern technologies in the field of software development. My goal is to sharpen my development skills to become an experienced professional software developer in this field.
 
 <!--
